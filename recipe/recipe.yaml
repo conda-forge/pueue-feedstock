@@ -10,7 +10,7 @@ source:
   sha256: b7add2bdd6cdce683eea5b24932ed12534b76c29143d8183216c4afc60beef04
 
 build:
-  number: 0
+  number: 1
 
 requirements:
   build:
@@ -26,7 +26,8 @@ tests:
 about:
   license: MIT
   license_file:
-    - LICENSE
+    - LICENSE.MIT
+    - LICENSE.APACHE
     - THIRDPARTY.yml
   summary: Command-line tool for managing long-running shell commands
   homepage: https://github.com/Nukesor/pueue
