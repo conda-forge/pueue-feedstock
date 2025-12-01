@@ -26,7 +26,8 @@ tests:
 about:
   license: MIT
   license_file:
-    - LICENSE
+    - LICENSE.MIT
+    - LICENSE.APACHE
     - THIRDPARTY.yml
   summary: Command-line tool for managing long-running shell commands
   homepage: https://github.com/Nukesor/pueue
