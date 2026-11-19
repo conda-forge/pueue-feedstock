@@ -1,5 +1,5 @@
 context:
-  version: "4.0.4"
+  version: "4.0.5"
 
 package:
   name: pueue
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Nukesor/pueue/archive/v${{ version }}.tar.gz
-  sha256: 236a47a1cc74721998f4de3eff5062efe8e73c56c05aa19e64fef2e5ee55700f
+  sha256: 1df97d8253ced4b987adc1f9dcbedb03153380cd8d04eb92f6a76d9340a5cd99
 
 build:
   number: 0
